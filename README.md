@@ -67,4 +67,37 @@ https://oracleapex.com/ords/r/pwa_asopral_col/lurepas/inicio?tz=-5:00
 
 ---
 
+## 📁 Contenido del repositorio
 
+Actualmente el repositorio incluye:
+
+- `README.md`  
+  Documento de descripción del proyecto y guía de uso del repositorio.
+
+- `f195700 (3).sql`  
+  Archivo **exportado desde Oracle APEX** que contiene la aplicación Lurepa (prototipo funcional).  
+  Este archivo se utiliza para **importar la aplicación en otro workspace de Oracle APEX**.
+
+### 🔓 Cómo abrir/descargar `f195700 (3).sql` desde GitHub
+
+GitHub no puede mostrar en pantalla este archivo porque es grande, pero sí permite descargarlo:
+
+1. Ingresar al repositorio:  
+   `https://github.com/msantiago1044/PWA_ASOPRAL_PG`
+2. En la lista de archivos, hacer clic en **`f195700 (3).sql`**.
+3. En la parte central aparecerá un mensaje indicando que el archivo es muy grande.  
+   Debajo, hacer clic en **`View raw`**.
+4. El navegador descargará el archivo `.sql`.  
+   - Guardarlo en su equipo (por ejemplo, en la carpeta `Descargas`).
+   - Ese archivo será el que se importará en Oracle APEX.
+
+---
+## 🚀 Instalación y despliegue en Oracle APEX
+
+### 1. Clonar o descargar el repositorio (opcional)
+
+Puedes clonar el repositorio o simplemente descargar el archivo `.sql`:
+
+```bash
+git clone https://github.com/msantiago1044/PWA_ASOPRAL_PG.git
+cd PWA_ASOPRAL_PG
