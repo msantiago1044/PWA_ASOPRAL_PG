@@ -67,15 +67,4 @@ https://oracleapex.com/ords/r/pwa_asopral_col/lurepas/inicio?tz=-5:00
 
 ---
 
-## 🗂 Estructura del repositorio
 
-> _Esta estructura es una guía sugerida; puede ajustarse a la forma final del proyecto._
-
-```text
-.
-├── db/                 # Scripts de base de datos (tablas, vistas, packages PL/SQL)
-├── apex/               # Export(s) de la aplicación Oracle APEX
-├── docs/               # Documentación técnica y manuales
-├── assets/             # Imágenes, íconos y recursos gráficos
-├── scripts/            # Scripts auxiliares (carga inicial, utilidades)
-└── README.md           # Este archivo
