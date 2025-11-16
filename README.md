@@ -1,4 +1,4 @@
-# Lurepa – PWA para la comercialización de arepas de huevo (ASOPRAL – Luruaco)
+# LuruArepa – PWA para la comercialización de arepas de huevo (ASOPRAL – Luruaco)
 
 Este repositorio contiene el código y la documentación técnica de **Lurepa**, una **Progressive Web Application (PWA)** desarrollada en **Oracle APEX** para la **Asociación de Productoras de Arepas de Huevo (ASOPRAL)** del municipio de Luruaco, Atlántico – Colombia.
 
@@ -60,7 +60,7 @@ El proyecto busca **digitalizar el proceso de comercialización** de la arepa de
 
 La versión desplegada de la PWA se encuentra en el siguiente enlace:
 
-👉 **Lurepa – PWA ASOPRAL**  
+👉 **LuruArepa – PWA ASOPRAL**  
 https://oracleapex.com/ords/r/pwa_asopral_col/lurepas/inicio?tz=-5:00
 
 > El acceso y las credenciales pueden estar restringidos según el entorno de pruebas o producción definido para el proyecto.
